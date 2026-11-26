@@ -1,0 +1,17 @@
+INFO: Loaded existing interconnect file '/home/pkp27ec126/AICP/interconn.iml'
+INFO: Loaded existing interconnect file '/sl/SPB241/share/pcb/signal/cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: Field Solver bem2d for STL_1S_1R_1
+INFO: Executing command: bem2d 0 "/tmp/#Taaaaao57205.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2
+INFO: Executing command: bem2d 0 "/tmp/#Taaaaap57205.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3
+INFO: Executing command: bem2d 0 "/tmp/#Taaaaaq57205.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_4
+INFO: Executing command: bem2d 0 "/tmp/#Taaaaar57205.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_5
+INFO: Executing command: bem2d 0 "/tmp/#Taaaaas57205.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_6
+INFO: Executing command: bem2d 0 "/tmp/#Taaaaat57205.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_7
+INFO: Executing command: bem2d 0 "/tmp/#Taaaaaw57205.in" 0.00127

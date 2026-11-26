@@ -1,0 +1,57 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Net Assignment                                              )
+(                                                                     )
+(    Drawing          : diffpair_assign.mcm                           )
+(    Software Version : 24.1S001                                      )
+(    Date/Time        : Thu Sep 17 11:49:14 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING(SPMHIS-244): Assignment is not possible. More source pins are selected than eligible destination pins.
+INFO(SPMHIS-245): Filtering pins of different component class(es).
+Beginning stage 1 of assignment: Nearest match.
+Stage 1 completed.
+
+The following net assignments were made:
+   Pin IO1.J21 at (9500.000000 2500.000000) assigned to net D2_21.
+   Pin IO1.K21 at (9500.000000 1500.000000) assigned to net D2_23.
+   Pin IO1.F20 at (8500.000000 5500.000000) assigned to net D2_16.
+   Pin IO1.G20 at (8500.000000 4500.000000) assigned to net D2_19.
+   Pin IO1.T20 at (8500.000000 -4500.000000) assigned to net D2_26.
+   Pin IO1.C16 at (4500.000000 8500.000000) assigned to net D2_13.
+   Pin IO1.C17 at (5500.000000 8500.000000) assigned to net D2_14.
+   Pin IO1.D17 at (5500.000000 7500.000000) assigned to net D2_15.
+   Pin IO1.W17 at (5500.000000 -7500.000000) assigned to net D2_27.
+   Pin IO1.Y16 at (4500.000000 -8500.000000) assigned to net D2_28.
+   Pin IO1.B14 at (2500.000000 9500.000000) assigned to net D2_10.
+   Pin IO1.C14 at (2500.000000 8500.000000) assigned to net D2_11.
+   Pin IO1.C15 at (3500.000000 8500.000000) assigned to net D2_12.
+   Pin IO1.Y14 at (2500.000000 -8500.000000) assigned to net D2_31.
+   Pin IO1.Y15 at (3500.000000 -8500.000000) assigned to net D2_30.
+   Pin IO1.B13 at (1500.000000 9500.000000) assigned to net D2_9.
+   Pin IO1.Y13 at (1500.000000 -8500.000000) assigned to net D2_33.
+   Pin IO1.B11 at (-500.000000 9500.000000) assigned to net D2_6.
+   Pin IO1.B12 at (500.000000 9500.000000) assigned to net D2_8.
+   Pin IO1.AA11 at (-500.000000 -9500.000000) assigned to net D2_39.
+   Pin IO1.AA12 at (500.000000 -9500.000000) assigned to net D2_35.
+   Pin IO1.B9 at (-2500.000000 9500.000000) assigned to net D2_5.
+   Pin IO1.Y9 at (-2500.000000 -8500.000000) assigned to net D2_43.
+   Pin IO1.Y10 at (-1500.000000 -8500.000000) assigned to net D2_41.
+   Pin IO1.C8 at (-3500.000000 8500.000000) assigned to net D2_4.
+   Pin IO1.Y8 at (-3500.000000 -8500.000000) assigned to net D2_44.
+   Pin IO1.C6 at (-5500.000000 8500.000000) assigned to net D2_2.
+   Pin IO1.C7 at (-4500.000000 8500.000000) assigned to net D2_3.
+   Pin IO1.D6 at (-5500.000000 7500.000000) assigned to net D2_1.
+   Pin IO1.W6 at (-5500.000000 -7500.000000) assigned to net D2_47.
+   Pin IO1.Y7 at (-4500.000000 -8500.000000) assigned to net D2_46.
+   Pin IO1.G3 at (-8500.000000 4500.000000) assigned to net D2_59.
+   Pin IO1.T3 at (-8500.000000 -4500.000000) assigned to net D2_50.
+   Pin IO1.U3 at (-8500.000000 -5500.000000) assigned to net D2_48.
+   Pin IO1.H2 at (-9500.000000 3500.000000) assigned to net D2_57.
+   Pin IO1.J2 at (-9500.000000 2500.000000) assigned to net D2_56.
+   Pin IO1.N2 at (-9500.000000 -1500.000000) assigned to net D2_53.
+   Pin IO1.P2 at (-9500.000000 -2500.000000) assigned to net D2_51.
+
+Thu Sep 17 11:50:14 2026

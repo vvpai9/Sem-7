@@ -1,0 +1,107 @@
+\t (00:00:08) apd 24.1 S001 (4251327) [11/6/2024] Linux SPB 64-bit Edition
+\t (00:00:08)     Journal start - Thu Sep 24 19:53:45 2026
+\t (00:00:08)         Host=vlsi-aicp-14.kletech.ac.in User=pkp27ec126 Pid=19707 CPUs=12
+\t (00:00:08) CmdLine= /sl/SPB241/tools.lnx86/bin/allegro.exe
+\t (00:00:08) 
+\t (00:00:08) Loading axlcore.cxt 
+\t (00:00:09) Opening existing design...
+\d (00:00:09) Design opened: /home/pkp27ec126/AICP/areas.mcm
+\i (00:00:09) trapsize 9208
+\i (00:00:09) trapsize 10231
+\i (00:00:09) trapsize 11510
+\i (00:00:09) trapsize 10231
+\i (00:00:09) trapsize 10231
+\t (00:00:09) Loading apt.cxt 
+\i (00:00:10) symboledit 
+\t (00:00:10) [19:53:46.414104] Periodic Lic check successful
+[19:53:46.938459] Feature usage summary:
+[19:53:46.938459] Allegro_Adv_Packaging_Plus
+[19:53:46.938459] Allegro_PCB_Productivity_TB
+[19:53:46.938459] Allegro_PCB_Harmony_Option
+[19:53:46.938459] SiP_RF_Layout_Option
+[19:53:46.938459] SIP_WLCSP
+[19:53:46.938459] SiP_Layout_Option
+[19:53:46.938459] advanced_package_designer
+
+\i (00:00:12) trapsize 2528
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out -168.66 -2490.67
+\i (00:00:13) trapsize 5055
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out -158.56 -2440.12
+\i (00:00:13) trapsize 10110
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out -158.56 -2440.12
+\i (00:00:13) trapsize 20221
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in -724.74 188.61
+\i (00:00:15) trapsize 10110
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in -724.74 188.62
+\i (00:00:15) trapsize 5055
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in -1594.24 279.62
+\i (00:00:15) trapsize 2528
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in -1594.23 279.62
+\i (00:00:15) trapsize 1264
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -1571.48 143.14
+\i (00:00:16) trapsize 632
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -1571.48 143.14
+\i (00:00:16) trapsize 316
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -1571.47 143.14
+\i (00:00:16) trapsize 158
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out -1549.04 134.62
+\i (00:00:17) trapsize 316
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out -1549.04 134.61
+\i (00:00:17) trapsize 632
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out -1549.04 134.61
+\i (00:00:17) trapsize 1264
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out -1549.03 134.62
+\i (00:00:18) trapsize 2528
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out -1549.03 134.62
+\i (00:00:18) trapsize 5055
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out -1549.04 134.63
+\i (00:00:18) trapsize 10111
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out -1549.04 134.63
+\i (00:00:18) trapsize 20221
+\i (00:00:29) exit 
+\t (00:00:29) Lic Summary:
+[19:54:06.427778] Cdslmd servers: AICPServer cadence
+[19:54:06.427784] Feature usage summary:
+[19:54:06.427784] Allegro_Adv_Packaging_Plus
+[19:54:06.427785] Allegro_PCB_Productivity_TB
+[19:54:06.427786] Allegro_PCB_Harmony_Option
+[19:54:06.427786] SiP_RF_Layout_Option
+[19:54:06.427786] SIP_WLCSP
+[19:54:06.427792] SiP_Layout_Option
+[19:54:06.427792] advanced_package_designer
+
+\t (00:00:29)     Journal end - Thu Sep 24 19:54:06 2026

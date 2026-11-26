@@ -1,0 +1,1017 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Die Text-In Wizard                                               )
+(                                                                     )
+(    Drawing          : bga_generator.mcm                             )
+(    Software Version : 24.1S001                                      )
+(    Date/Time        : Thu Aug 13 16:53:23 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Text file contains a column header line. This has been used to pre-configure the columns for import.
+Beginning import of data. This may take some time.
+Beginning creation of logical component.
+Logical component creation completed.
+
+Attaching pins to their nets (creating new nets as required).
+Created new net PORT_PAD_DATA_IN[1] from net name PORT_PAD_DATA_IN[1].
+   Pin D1.BUMP_1 was added to net PORT_PAD_DATA_IN[1].
+Created new net SCAN_IN_1 from net name SCAN_IN_1.
+   Pin D1.BUMP_2 was added to net SCAN_IN_1.
+Created new net PORT_PAD_DATA_IN[3] from net name PORT_PAD_DATA_IN[3].
+   Pin D1.BUMP_3 was added to net PORT_PAD_DATA_IN[3].
+Created new net PORT_PAD_DATA_OUT[10] from net name PORT_PAD_DATA_OUT[10].
+   Pin D1.BUMP_6 was added to net PORT_PAD_DATA_OUT[10].
+   Pin D1.BUMP_7 was added to net GROUND.
+   Pin D1.BUMP_8 was added to net GROUND.
+   Pin D1.BUMP_13 was added to net GROUND.
+Created new net RDGP4 from net name RDGP4.
+   Pin D1.BUMP_15 was added to net RDGP4.
+Created new net PORT_PAD_DATA_OUT[14] from net name PORT_PAD_DATA_OUT[14].
+   Pin D1.BUMP_16 was added to net PORT_PAD_DATA_OUT[14].
+Created new net LAMP12 from net name LAMP12.
+   Pin D1.BUMP_17 was added to net LAMP12.
+Created new net LAMP8_1 from net name LAMP8_1.
+   Pin D1.BUMP_18 was added to net LAMP8_1.
+Created new net RDGP6 from net name RDGP6.
+   Pin D1.BUMP_19 was added to net RDGP6.
+Created new net LAMP14 from net name LAMP14.
+   Pin D1.BUMP_20 was added to net LAMP14.
+Created new net LAMP9 from net name LAMP9.
+   Pin D1.BUMP_21 was added to net LAMP9.
+Created new net RDGP3 from net name RDGP3.
+   Pin D1.BUMP_22 was added to net RDGP3.
+Created new net RDGP1 from net name RDGP1.
+   Pin D1.BUMP_23 was added to net RDGP1.
+Created new net SCAN_OUT_1 from net name SCAN_OUT_1.
+   Pin D1.BUMP_24 was added to net SCAN_OUT_1.
+Created new net LAMP11 from net name LAMP11.
+   Pin D1.BUMP_25 was added to net LAMP11.
+Created new net RDGP5 from net name RDGP5.
+   Pin D1.BUMP_26 was added to net RDGP5.
+Created new net LAMP13 from net name LAMP13.
+   Pin D1.BUMP_27 was added to net LAMP13.
+Created new net LAMP15 from net name LAMP15.
+   Pin D1.BUMP_28 was added to net LAMP15.
+Created new net ZHSYNC6 from net name ZHSYNC6.
+   Pin D1.BUMP_29 was added to net ZHSYNC6.
+Created new net REFCLK from net name REFCLK.
+   Pin D1.BUMP_31 was added to net REFCLK.
+Created new net DAVE from net name DAVE.
+   Pin D1.BUMP_32 was added to net DAVE.
+Created new net ZHSYNC12 from net name ZHSYNC12.
+   Pin D1.BUMP_33 was added to net ZHSYNC12.
+Created new net ZHSYNC8 from net name ZHSYNC8.
+   Pin D1.BUMP_35 was added to net ZHSYNC8.
+Created new net ZHSYNC14 from net name ZHSYNC14.
+   Pin D1.BUMP_37 was added to net ZHSYNC14.
+Created new net SPI_DATA from net name SPI_DATA.
+   Pin D1.BUMP_39 was added to net SPI_DATA.
+Created new net ZHSYNC15 from net name ZHSYNC15.
+   Pin D1.BUMP_41 was added to net ZHSYNC15.
+Created new net SPI_FS from net name SPI_FS.
+   Pin D1.BUMP_43 was added to net SPI_FS.
+Created new net ZHSYNC5 from net name ZHSYNC5.
+   Pin D1.BUMP_47 was added to net ZHSYNC5.
+Created new net MHSYNC9 from net name MHSYNC9.
+   Pin D1.BUMP_49 was added to net MHSYNC9.
+Created new net MHSYNC11 from net name MHSYNC11.
+   Pin D1.BUMP_50 was added to net MHSYNC11.
+Created new net MHSYNC8 from net name MHSYNC8.
+   Pin D1.BUMP_51 was added to net MHSYNC8.
+Created new net MHSYNC2 from net name MHSYNC2.
+   Pin D1.BUMP_52 was added to net MHSYNC2.
+Created new net RESET_1 from net name RESET_1.
+   Pin D1.BUMP_53 was added to net RESET_1.
+Created new net RDGP9 from net name RDGP9.
+   Pin D1.BUMP_54 was added to net RDGP9.
+Created new net MHSYNC3 from net name MHSYNC3.
+   Pin D1.BUMP_55 was added to net MHSYNC3.
+Created new net MHSYNC14 from net name MHSYNC14.
+   Pin D1.BUMP_56 was added to net MHSYNC14.
+Created new net ZHSYNC7 from net name ZHSYNC7.
+   Pin D1.BUMP_57 was added to net ZHSYNC7.
+Created new net MHSYNC7 from net name MHSYNC7.
+   Pin D1.BUMP_58 was added to net MHSYNC7.
+Created new net QLAMP10 from net name QLAMP10.
+   Pin D1.BUMP_59 was added to net QLAMP10.
+Created new net PORT_PAD_DATA_IN[9] from net name PORT_PAD_DATA_IN[9].
+   Pin D1.BUMP_60 was added to net PORT_PAD_DATA_IN[9].
+Created new net SCAN_CLK from net name SCAN_CLK.
+   Pin D1.BUMP_61 was added to net SCAN_CLK.
+Created new net ZHSYNC10 from net name ZHSYNC10.
+   Pin D1.BUMP_62 was added to net ZHSYNC10.
+Created new net SCAN_EN from net name SCAN_EN.
+   Pin D1.BUMP_63 was added to net SCAN_EN.
+Created new net ZHSYNC9 from net name ZHSYNC9.
+   Pin D1.BUMP_66 was added to net ZHSYNC9.
+Created new net ZHSYNC13 from net name ZHSYNC13.
+   Pin D1.BUMP_68 was added to net ZHSYNC13.
+Created new net IBIAS from net name IBIAS.
+   Pin D1.BUMP_71 was added to net IBIAS.
+Created new net ZHSYNC11 from net name ZHSYNC11.
+   Pin D1.BUMP_73 was added to net ZHSYNC11.
+Created new net PLLRST from net name PLLRST.
+   Pin D1.BUMP_78 was added to net PLLRST.
+Created new net SCAN_IN_2 from net name SCAN_IN_2.
+   Pin D1.BUMP_79 was added to net SCAN_IN_2.
+Created new net INT from net name INT.
+   Pin D1.BUMP_82 was added to net INT.
+Created new net PORT_PAD_DATA_IN[0] from net name PORT_PAD_DATA_IN[0].
+   Pin D1.BUMP_84 was added to net PORT_PAD_DATA_IN[0].
+Created new net MHSYNC1 from net name MHSYNC1.
+   Pin D1.BUMP_91 was added to net MHSYNC1.
+Created new net QLAMP12 from net name QLAMP12.
+   Pin D1.BUMP_92 was added to net QLAMP12.
+Created new net RDGP11 from net name RDGP11.
+   Pin D1.BUMP_93 was added to net RDGP11.
+Created new net MHSYNC0 from net name MHSYNC0.
+   Pin D1.BUMP_94 was added to net MHSYNC0.
+Created new net RDGP10 from net name RDGP10.
+   Pin D1.BUMP_97 was added to net RDGP10.
+Created new net PORT_PAD_DATA_OUT[15] from net name PORT_PAD_DATA_OUT[15].
+   Pin D1.BUMP_98 was added to net PORT_PAD_DATA_OUT[15].
+Created new net RDGP2 from net name RDGP2.
+   Pin D1.BUMP_110 was added to net RDGP2.
+Created new net PORT_PAD_DATA_IN[8] from net name PORT_PAD_DATA_IN[8].
+   Pin D1.BUMP_115 was added to net PORT_PAD_DATA_IN[8].
+Created new net PORT_PAD_DATA_IN[6] from net name PORT_PAD_DATA_IN[6].
+   Pin D1.BUMP_117 was added to net PORT_PAD_DATA_IN[6].
+Created new net DGP7_1 from net name DGP7_1.
+   Pin D1.BUMP_119 was added to net DGP7_1.
+Created new net QLAMP9 from net name QLAMP9.
+   Pin D1.BUMP_120 was added to net QLAMP9.
+Created new net PORT_PAD_DATA_IN[5] from net name PORT_PAD_DATA_IN[5].
+   Pin D1.BUMP_121 was added to net PORT_PAD_DATA_IN[5].
+Created new net DGP10 from net name DGP10.
+   Pin D1.BUMP_125 was added to net DGP10.
+Created new net DGP13 from net name DGP13.
+   Pin D1.BUMP_126 was added to net DGP13.
+Created new net RDGP8 from net name RDGP8.
+   Pin D1.BUMP_131 was added to net RDGP8.
+Created new net TEST_MODE from net name TEST_MODE.
+   Pin D1.BUMP_136 was added to net TEST_MODE.
+Created new net MHSYNC4 from net name MHSYNC4.
+   Pin D1.BUMP_137 was added to net MHSYNC4.
+Created new net MHSYNC12 from net name MHSYNC12.
+   Pin D1.BUMP_139 was added to net MHSYNC12.
+Created new net ZHSYNC3 from net name ZHSYNC3.
+   Pin D1.BUMP_145 was added to net ZHSYNC3.
+Created new net MHSYNC5 from net name MHSYNC5.
+   Pin D1.BUMP_149 was added to net MHSYNC5.
+Created new net RDGP12 from net name RDGP12.
+   Pin D1.BUMP_151 was added to net RDGP12.
+Created new net RDGP14 from net name RDGP14.
+   Pin D1.BUMP_152 was added to net RDGP14.
+Created new net QLAMP14 from net name QLAMP14.
+   Pin D1.BUMP_153 was added to net QLAMP14.
+Created new net ZHSYNC1 from net name ZHSYNC1.
+   Pin D1.BUMP_155 was added to net ZHSYNC1.
+Created new net RDGP13 from net name RDGP13.
+   Pin D1.BUMP_157 was added to net RDGP13.
+Created new net PORT_PAD_DATA_IN[11] from net name PORT_PAD_DATA_IN[11].
+   Pin D1.BUMP_158 was added to net PORT_PAD_DATA_IN[11].
+Created new net QLAMP13 from net name QLAMP13.
+   Pin D1.BUMP_159 was added to net QLAMP13.
+Created new net PORT_PAD_DATA_IN[13] from net name PORT_PAD_DATA_IN[13].
+   Pin D1.BUMP_160 was added to net PORT_PAD_DATA_IN[13].
+Created new net PORT_PAD_DATA_IN[10] from net name PORT_PAD_DATA_IN[10].
+   Pin D1.BUMP_161 was added to net PORT_PAD_DATA_IN[10].
+Created new net QLAMP15 from net name QLAMP15.
+   Pin D1.BUMP_164 was added to net QLAMP15.
+Created new net MHSYNC6 from net name MHSYNC6.
+   Pin D1.BUMP_168 was added to net MHSYNC6.
+Created new net MHSYNC10 from net name MHSYNC10.
+   Pin D1.BUMP_170 was added to net MHSYNC10.
+Created new net MHSYNC13 from net name MHSYNC13.
+   Pin D1.BUMP_175 was added to net MHSYNC13.
+Created new net MHSYNC15 from net name MHSYNC15.
+   Pin D1.BUMP_180 was added to net MHSYNC15.
+Created new net ZHSYNC0 from net name ZHSYNC0.
+   Pin D1.BUMP_184 was added to net ZHSYNC0.
+Created new net ZHSYNC2 from net name ZHSYNC2.
+   Pin D1.BUMP_186 was added to net ZHSYNC2.
+Created new net RLAMP0 from net name RLAMP0.
+   Pin D1.BUMP_191 was added to net RLAMP0.
+Created new net RDGP15 from net name RDGP15.
+   Pin D1.BUMP_192 was added to net RDGP15.
+Created new net QLAMP11 from net name QLAMP11.
+   Pin D1.BUMP_196 was added to net QLAMP11.
+Created new net LAMP2_1 from net name LAMP2_1.
+   Pin D1.BUMP_197 was added to net LAMP2_1.
+Created new net DGP9 from net name DGP9.
+   Pin D1.BUMP_198 was added to net DGP9.
+Created new net HSYNC1 from net name HSYNC1.
+   Pin D1.BUMP_199 was added to net HSYNC1.
+Created new net DGP8_1 from net name DGP8_1.
+   Pin D1.BUMP_200 was added to net DGP8_1.
+Created new net DGP11 from net name DGP11.
+   Pin D1.BUMP_201 was added to net DGP11.
+Created new net DGP12 from net name DGP12.
+   Pin D1.BUMP_202 was added to net DGP12.
+Created new net LAMP1_1 from net name LAMP1_1.
+   Pin D1.BUMP_203 was added to net LAMP1_1.
+Created new net DGP15 from net name DGP15.
+   Pin D1.BUMP_204 was added to net DGP15.
+Created new net LAMP3_1 from net name LAMP3_1.
+   Pin D1.BUMP_205 was added to net LAMP3_1.
+Created new net DGP6_1 from net name DGP6_1.
+   Pin D1.BUMP_206 was added to net DGP6_1.
+Created new net DGP2_1 from net name DGP2_1.
+   Pin D1.BUMP_207 was added to net DGP2_1.
+Created new net DGP1_1 from net name DGP1_1.
+   Pin D1.BUMP_208 was added to net DGP1_1.
+Created new net DGP5_1 from net name DGP5_1.
+   Pin D1.BUMP_209 was added to net DGP5_1.
+Created new net DGP4_1 from net name DGP4_1.
+   Pin D1.BUMP_210 was added to net DGP4_1.
+Created new net LAMP4_1 from net name LAMP4_1.
+   Pin D1.BUMP_215 was added to net LAMP4_1.
+Created new net LAMP7_1 from net name LAMP7_1.
+   Pin D1.BUMP_217 was added to net LAMP7_1.
+Created new net DGP14 from net name DGP14.
+   Pin D1.BUMP_221 was added to net DGP14.
+Created new net LAMP0 from net name LAMP0.
+   Pin D1.BUMP_222 was added to net LAMP0.
+Created new net LAMP5_1 from net name LAMP5_1.
+   Pin D1.BUMP_223 was added to net LAMP5_1.
+Created new net ZHSYNC4 from net name ZHSYNC4.
+   Pin D1.BUMP_233 was added to net ZHSYNC4.
+Created new net SCAN_OUT_2 from net name SCAN_OUT_2.
+   Pin D1.BUMP_234 was added to net SCAN_OUT_2.
+Created new net VCOM from net name VCOM.
+   Pin D1.BUMP_235 was added to net VCOM.
+Created new net PORT_PAD_DATA_IN[14] from net name PORT_PAD_DATA_IN[14].
+   Pin D1.BUMP_236 was added to net PORT_PAD_DATA_IN[14].
+Created new net PORT_PAD_DATA_IN[2] from net name PORT_PAD_DATA_IN[2].
+   Pin D1.BUMP_237 was added to net PORT_PAD_DATA_IN[2].
+Created new net LAMP10 from net name LAMP10.
+   Pin D1.BUMP_240 was added to net LAMP10.
+Created new net LAMP6_1 from net name LAMP6_1.
+   Pin D1.BUMP_246 was added to net LAMP6_1.
+Created new net TDIGIT[4] from net name TDIGIT[4].
+   Pin D1.BUMP_250 was added to net TDIGIT[4].
+Created new net PORT_PAD_DATA_IN[7] from net name PORT_PAD_DATA_IN[7].
+   Pin D1.BUMP_252 was added to net PORT_PAD_DATA_IN[7].
+Created new net VCOP from net name VCOP.
+   Pin D1.BUMP_253 was added to net VCOP.
+Created new net TDIGIT[0] from net name TDIGIT[0].
+   Pin D1.BUMP_254 was added to net TDIGIT[0].
+Created new net RLAMP8 from net name RLAMP8.
+   Pin D1.BUMP_256 was added to net RLAMP8.
+Created new net RLAMP6 from net name RLAMP6.
+   Pin D1.BUMP_257 was added to net RLAMP6.
+Created new net RLAMP9 from net name RLAMP9.
+   Pin D1.BUMP_258 was added to net RLAMP9.
+Created new net RLAMP10 from net name RLAMP10.
+   Pin D1.BUMP_259 was added to net RLAMP10.
+Created new net RLAMP7 from net name RLAMP7.
+   Pin D1.BUMP_261 was added to net RLAMP7.
+Created new net RLAMP4 from net name RLAMP4.
+   Pin D1.BUMP_262 was added to net RLAMP4.
+Created new net RLAMP3 from net name RLAMP3.
+   Pin D1.BUMP_263 was added to net RLAMP3.
+Created new net QDGP12 from net name QDGP12.
+   Pin D1.BUMP_265 was added to net QDGP12.
+Created new net QDGP8 from net name QDGP8.
+   Pin D1.BUMP_267 was added to net QDGP8.
+Created new net QDGP9 from net name QDGP9.
+   Pin D1.BUMP_271 was added to net QDGP9.
+Created new net QDGP1 from net name QDGP1.
+   Pin D1.BUMP_274 was added to net QDGP1.
+Created new net RLAMP12 from net name RLAMP12.
+   Pin D1.BUMP_275 was added to net RLAMP12.
+Created new net RLAMP14 from net name RLAMP14.
+   Pin D1.BUMP_277 was added to net RLAMP14.
+Created new net QDGP10 from net name QDGP10.
+   Pin D1.BUMP_278 was added to net QDGP10.
+Created new net QDGP5 from net name QDGP5.
+   Pin D1.BUMP_279 was added to net QDGP5.
+Created new net QDGP6 from net name QDGP6.
+   Pin D1.BUMP_280 was added to net QDGP6.
+Created new net QDGP2 from net name QDGP2.
+   Pin D1.BUMP_282 was added to net QDGP2.
+Created new net QDGP4 from net name QDGP4.
+   Pin D1.BUMP_284 was added to net QDGP4.
+Created new net RLAMP15 from net name RLAMP15.
+   Pin D1.BUMP_285 was added to net RLAMP15.
+Created new net PORT_PAD_DATA_IN[15] from net name PORT_PAD_DATA_IN[15].
+   Pin D1.BUMP_288 was added to net PORT_PAD_DATA_IN[15].
+Created new net PORT_PAD_DATA_OUT[1] from net name PORT_PAD_DATA_OUT[1].
+   Pin D1.BUMP_290 was added to net PORT_PAD_DATA_OUT[1].
+Created new net TDIGIT[7] from net name TDIGIT[7].
+   Pin D1.BUMP_293 was added to net TDIGIT[7].
+Created new net PORT_PAD_DATA_OUT[13] from net name PORT_PAD_DATA_OUT[13].
+   Pin D1.BUMP_295 was added to net PORT_PAD_DATA_OUT[13].
+Created new net PORT_PAD_DATA_OUT[11] from net name PORT_PAD_DATA_OUT[11].
+   Pin D1.BUMP_296 was added to net PORT_PAD_DATA_OUT[11].
+Created new net PORT_PAD_DATA_OUT[7] from net name PORT_PAD_DATA_OUT[7].
+   Pin D1.BUMP_297 was added to net PORT_PAD_DATA_OUT[7].
+Created new net PORT_PAD_DATA_OUT[4] from net name PORT_PAD_DATA_OUT[4].
+   Pin D1.BUMP_299 was added to net PORT_PAD_DATA_OUT[4].
+Created new net PORT_PAD_DATA_OUT[5] from net name PORT_PAD_DATA_OUT[5].
+   Pin D1.BUMP_300 was added to net PORT_PAD_DATA_OUT[5].
+Created new net PORT_PAD_DATA_OUT[2] from net name PORT_PAD_DATA_OUT[2].
+   Pin D1.BUMP_301 was added to net PORT_PAD_DATA_OUT[2].
+Created new net RDGP0 from net name RDGP0.
+   Pin D1.BUMP_303 was added to net RDGP0.
+Created new net QDGP15 from net name QDGP15.
+   Pin D1.BUMP_340 was added to net QDGP15.
+Created new net QDGP13 from net name QDGP13.
+   Pin D1.BUMP_341 was added to net QDGP13.
+Created new net QDGP14 from net name QDGP14.
+   Pin D1.BUMP_345 was added to net QDGP14.
+Created new net HSYNC5 from net name HSYNC5.
+   Pin D1.BUMP_353 was added to net HSYNC5.
+Created new net HSYNC13 from net name HSYNC13.
+   Pin D1.BUMP_354 was added to net HSYNC13.
+Created new net HSYNC14 from net name HSYNC14.
+   Pin D1.BUMP_355 was added to net HSYNC14.
+Created new net HSYNC6 from net name HSYNC6.
+   Pin D1.BUMP_356 was added to net HSYNC6.
+Created new net QLAMP8 from net name QLAMP8.
+   Pin D1.BUMP_357 was added to net QLAMP8.
+Created new net HSYNC3 from net name HSYNC3.
+   Pin D1.BUMP_358 was added to net HSYNC3.
+Created new net HSYNC0 from net name HSYNC0.
+   Pin D1.BUMP_366 was added to net HSYNC0.
+Created new net DGP0_1 from net name DGP0_1.
+   Pin D1.BUMP_367 was added to net DGP0_1.
+Created new net HSYNC15 from net name HSYNC15.
+   Pin D1.BUMP_368 was added to net HSYNC15.
+Created new net DGP3_1 from net name DGP3_1.
+   Pin D1.BUMP_369 was added to net DGP3_1.
+Created new net QLAMP7 from net name QLAMP7.
+   Pin D1.BUMP_375 was added to net QLAMP7.
+Created new net HSYNC12 from net name HSYNC12.
+   Pin D1.BUMP_376 was added to net HSYNC12.
+Created new net HSYNC7 from net name HSYNC7.
+   Pin D1.BUMP_378 was added to net HSYNC7.
+Created new net QLAMP3 from net name QLAMP3.
+   Pin D1.BUMP_379 was added to net QLAMP3.
+Created new net HSYNC4 from net name HSYNC4.
+   Pin D1.BUMP_380 was added to net HSYNC4.
+Created new net HSYNC9 from net name HSYNC9.
+   Pin D1.BUMP_381 was added to net HSYNC9.
+Created new net HSYNC11 from net name HSYNC11.
+   Pin D1.BUMP_382 was added to net HSYNC11.
+Created new net QLAMP2 from net name QLAMP2.
+   Pin D1.BUMP_388 was added to net QLAMP2.
+Created new net HSYNC8 from net name HSYNC8.
+   Pin D1.BUMP_398 was added to net HSYNC8.
+Created new net QLAMP5 from net name QLAMP5.
+   Pin D1.BUMP_399 was added to net QLAMP5.
+Created new net HSYNC2 from net name HSYNC2.
+   Pin D1.BUMP_400 was added to net HSYNC2.
+Created new net HSYNC10 from net name HSYNC10.
+   Pin D1.BUMP_408 was added to net HSYNC10.
+Created new net QLAMP0 from net name QLAMP0.
+   Pin D1.BUMP_412 was added to net QLAMP0.
+Created new net QLAMP6 from net name QLAMP6.
+   Pin D1.BUMP_422 was added to net QLAMP6.
+Created new net QLAMP1 from net name QLAMP1.
+   Pin D1.BUMP_423 was added to net QLAMP1.
+Created new net QLAMP4 from net name QLAMP4.
+   Pin D1.BUMP_424 was added to net QLAMP4.
+Created new net TDIGIT[3] from net name TDIGIT[3].
+   Pin D1.BUMP_455 was added to net TDIGIT[3].
+Created new net PORT_PAD_DATA_OUT[3] from net name PORT_PAD_DATA_OUT[3].
+   Pin D1.BUMP_456 was added to net PORT_PAD_DATA_OUT[3].
+Created new net TDIGIT[5] from net name TDIGIT[5].
+   Pin D1.BUMP_457 was added to net TDIGIT[5].
+Created new net TDIGIT[6] from net name TDIGIT[6].
+   Pin D1.BUMP_458 was added to net TDIGIT[6].
+Created new net PORT_PAD_DATA_IN[4] from net name PORT_PAD_DATA_IN[4].
+   Pin D1.BUMP_459 was added to net PORT_PAD_DATA_IN[4].
+Created new net PORT_PAD_DATA_OUT[8] from net name PORT_PAD_DATA_OUT[8].
+   Pin D1.BUMP_460 was added to net PORT_PAD_DATA_OUT[8].
+Created new net RLAMP11 from net name RLAMP11.
+   Pin D1.BUMP_461 was added to net RLAMP11.
+Created new net QDGP7 from net name QDGP7.
+   Pin D1.BUMP_462 was added to net QDGP7.
+Created new net QDGP11 from net name QDGP11.
+   Pin D1.BUMP_464 was added to net QDGP11.
+Created new net RLAMP5 from net name RLAMP5.
+   Pin D1.BUMP_465 was added to net RLAMP5.
+Created new net RDGP7 from net name RDGP7.
+   Pin D1.BUMP_467 was added to net RDGP7.
+Created new net QDGP0 from net name QDGP0.
+   Pin D1.BUMP_468 was added to net QDGP0.
+Created new net QDGP3 from net name QDGP3.
+   Pin D1.BUMP_469 was added to net QDGP3.
+Created new net RLAMP1 from net name RLAMP1.
+   Pin D1.BUMP_470 was added to net RLAMP1.
+   Pin D1.BUMP_471 was added to net GROUND.
+   Pin D1.BUMP_472 was added to net GROUND.
+   Pin D1.BUMP_473 was added to net GROUND.
+   Pin D1.BUMP_474 was added to net GROUND.
+   Pin D1.BUMP_475 was added to net GROUND.
+   Pin D1.BUMP_476 was added to net GROUND.
+   Pin D1.BUMP_477 was added to net GROUND.
+   Pin D1.BUMP_478 was added to net GROUND.
+   Pin D1.BUMP_479 was added to net GROUND.
+   Pin D1.BUMP_480 was added to net GROUND.
+   Pin D1.BUMP_481 was added to net GROUND.
+   Pin D1.BUMP_482 was added to net GROUND.
+   Pin D1.BUMP_483 was added to net GROUND.
+   Pin D1.BUMP_484 was added to net GROUND.
+   Pin D1.BUMP_485 was added to net GROUND.
+   Pin D1.BUMP_486 was added to net GROUND.
+   Pin D1.BUMP_487 was added to net GROUND.
+   Pin D1.BUMP_488 was added to net GROUND.
+   Pin D1.BUMP_489 was added to net GROUND.
+   Pin D1.BUMP_490 was added to net GROUND.
+   Pin D1.BUMP_491 was added to net GROUND.
+   Pin D1.BUMP_492 was added to net GROUND.
+   Pin D1.BUMP_493 was added to net GROUND.
+   Pin D1.BUMP_494 was added to net GROUND.
+   Pin D1.BUMP_495 was added to net GROUND.
+   Pin D1.BUMP_496 was added to net GROUND.
+   Pin D1.BUMP_497 was added to net GROUND.
+   Pin D1.BUMP_498 was added to net GROUND.
+   Pin D1.BUMP_499 was added to net GROUND.
+   Pin D1.BUMP_500 was added to net GROUND.
+   Pin D1.BUMP_501 was added to net GROUND.
+   Pin D1.BUMP_502 was added to net GROUND.
+   Pin D1.BUMP_503 was added to net GROUND.
+   Pin D1.BUMP_504 was added to net GROUND.
+   Pin D1.BUMP_505 was added to net GROUND.
+   Pin D1.BUMP_506 was added to net GROUND.
+   Pin D1.BUMP_507 was added to net GROUND.
+   Pin D1.BUMP_508 was added to net GROUND.
+   Pin D1.BUMP_509 was added to net GROUND.
+   Pin D1.BUMP_510 was added to net GROUND.
+   Pin D1.BUMP_511 was added to net GROUND.
+   Pin D1.BUMP_512 was added to net GROUND.
+   Pin D1.BUMP_513 was added to net GROUND.
+   Pin D1.BUMP_514 was added to net GROUND.
+   Pin D1.BUMP_515 was added to net GROUND.
+   Pin D1.BUMP_516 was added to net GROUND.
+   Pin D1.BUMP_517 was added to net GROUND.
+   Pin D1.BUMP_518 was added to net GROUND.
+   Pin D1.BUMP_519 was added to net GROUND.
+   Pin D1.BUMP_520 was added to net GROUND.
+   Pin D1.BUMP_521 was added to net GROUND.
+   Pin D1.BUMP_522 was added to net GROUND.
+   Pin D1.BUMP_523 was added to net GROUND.
+   Pin D1.BUMP_524 was added to net GROUND.
+   Pin D1.BUMP_525 was added to net GROUND.
+   Pin D1.BUMP_526 was added to net GROUND.
+   Pin D1.BUMP_527 was added to net GROUND.
+   Pin D1.BUMP_528 was added to net GROUND.
+   Pin D1.BUMP_529 was added to net GROUND.
+   Pin D1.BUMP_530 was added to net GROUND.
+   Pin D1.BUMP_531 was added to net GROUND.
+   Pin D1.BUMP_532 was added to net GROUND.
+   Pin D1.BUMP_533 was added to net GROUND.
+   Pin D1.BUMP_534 was added to net GROUND.
+   Pin D1.BUMP_535 was added to net GROUND.
+   Pin D1.BUMP_536 was added to net GROUND.
+   Pin D1.BUMP_537 was added to net GROUND.
+   Pin D1.BUMP_538 was added to net GROUND.
+   Pin D1.BUMP_539 was added to net GROUND.
+   Pin D1.BUMP_540 was added to net GROUND.
+   Pin D1.BUMP_541 was added to net GROUND.
+   Pin D1.BUMP_542 was added to net GROUND.
+   Pin D1.BUMP_543 was added to net GROUND.
+   Pin D1.BUMP_544 was added to net GROUND.
+   Pin D1.BUMP_545 was added to net GROUND.
+   Pin D1.BUMP_546 was added to net GROUND.
+   Pin D1.BUMP_547 was added to net GROUND.
+   Pin D1.BUMP_548 was added to net GROUND.
+   Pin D1.BUMP_549 was added to net GROUND.
+   Pin D1.BUMP_550 was added to net GROUND.
+   Pin D1.BUMP_551 was added to net GROUND.
+   Pin D1.BUMP_552 was added to net GROUND.
+   Pin D1.BUMP_553 was added to net GROUND.
+   Pin D1.BUMP_554 was added to net GROUND.
+   Pin D1.BUMP_555 was added to net GROUND.
+   Pin D1.BUMP_556 was added to net GROUND.
+   Pin D1.BUMP_557 was added to net GROUND.
+   Pin D1.BUMP_558 was added to net GROUND.
+Created new net PORT_PAD_DATA_OUT[9] from net name PORT_PAD_DATA_OUT[9].
+   Pin D1.BUMP_561 was added to net PORT_PAD_DATA_OUT[9].
+Created new net PORT_PAD_DATA_IN[12] from net name PORT_PAD_DATA_IN[12].
+   Pin D1.BUMP_562 was added to net PORT_PAD_DATA_IN[12].
+Created new net TDIGIT[1] from net name TDIGIT[1].
+   Pin D1.BUMP_563 was added to net TDIGIT[1].
+Created new net PORT_PAD_DATA_OUT[0] from net name PORT_PAD_DATA_OUT[0].
+   Pin D1.BUMP_564 was added to net PORT_PAD_DATA_OUT[0].
+Created new net TDIGIT[2] from net name TDIGIT[2].
+   Pin D1.BUMP_566 was added to net TDIGIT[2].
+Created new net PORT_PAD_DATA_OUT[6] from net name PORT_PAD_DATA_OUT[6].
+   Pin D1.BUMP_567 was added to net PORT_PAD_DATA_OUT[6].
+Created new net TDIGIT_FLAG from net name TDIGIT_FLAG.
+   Pin D1.BUMP_568 was added to net TDIGIT_FLAG.
+Created new net PORT_PAD_DATA_OUT[12] from net name PORT_PAD_DATA_OUT[12].
+   Pin D1.BUMP_569 was added to net PORT_PAD_DATA_OUT[12].
+Created new net RLAMP2 from net name RLAMP2.
+   Pin D1.BUMP_570 was added to net RLAMP2.
+Created new net RLAMP13 from net name RLAMP13.
+   Pin D1.BUMP_571 was added to net RLAMP13.
+   Pin D1.BUMP_574 was added to net GROUND.
+   Pin D1.BUMP_575 was added to net GROUND.
+   Pin D1.BUMP_577 was added to net GROUND.
+   Pin D1.BUMP_582 was added to net GROUND.
+   Pin D1.BUMP_583 was added to net GROUND.
+Net attachment phase completed.
+
+Beginning creation of physical symbol.
+The following symbol pins were created (coordinates relative to symbol origin):
+   "BUMP_1" at (1998 -1580.62).
+   "BUMP_2" at (1737 -1580.62).
+   "BUMP_3" at (1867.5 -1580.62).
+   "BUMP_4" at (-130.5 -1569.38).
+   "BUMP_5" at (-297 -1580.62).
+   "BUMP_6" at (1998 1119.37).
+   "BUMP_7" at (-131.46 589.56).
+   "BUMP_8" at (-127.48 342.59).
+   "BUMP_9" at (-558 -1580.62).
+   "BUMP_10" at (-688.5 -1580.62).
+   "BUMP_11" at (0 -1719.38).
+   "BUMP_12" at (130.5 -1719.38).
+   "BUMP_13" at (135.49 -617.53).
+   "BUMP_15" at (1737 1119.37).
+   "BUMP_16" at (1867.5 1119.37).
+   "BUMP_17" at (1867.5 1719.38).
+   "BUMP_18" at (1737 1719.38).
+   "BUMP_19" at (1998 1719.38).
+   "BUMP_20" at (1867.5 1569.38).
+   "BUMP_21" at (1737 1569.38).
+   "BUMP_22" at (1998 1569.38).
+   "BUMP_23" at (1867.5 1419.37).
+   "BUMP_24" at (1899.45 -617.03).
+   "BUMP_25" at (1737 1419.37).
+   "BUMP_26" at (1998 1419.37).
+   "BUMP_27" at (1867.5 1269.37).
+   "BUMP_28" at (1737 1269.37).
+   "BUMP_29" at (427.5 -1730.62).
+   "BUMP_30" at (-427.5 -1580.62).
+   "BUMP_31" at (1476 -1580.62).
+   "BUMP_32" at (1215 -1580.62).
+   "BUMP_33" at (1080 -1580.62).
+   "BUMP_34" at (819 -1580.62).
+   "BUMP_35" at (949.5 -1730.62).
+   "BUMP_36" at (558 -1580.62).
+   "BUMP_37" at (1345.5 -1730.62).
+   "BUMP_38" at (297 -1580.62).
+   "BUMP_39" at (1606.5 -1580.62).
+   "BUMP_40" at (688.5 -1580.62).
+   "BUMP_41" at (1345.5 -1580.62).
+   "BUMP_42" at (949.5 -1580.62).
+   "BUMP_43" at (1867.5 -1730.62).
+   "BUMP_44" at (427.5 -1580.62).
+   "BUMP_45" at (130.5 -1569.38).
+   "BUMP_46" at (0 -1569.38).
+   "BUMP_47" at (688.5 -1730.62).
+   "BUMP_48" at (-819 -1580.62).
+   "BUMP_49" at (-1080 -1580.62).
+   "BUMP_50" at (-1215 -1580.62).
+   "BUMP_51" at (-1476 -1580.62).
+   "BUMP_52" at (-1737 -1580.62).
+   "BUMP_53" at (1606.5 -1730.62).
+   "BUMP_54" at (-1998 -1580.62).
+   "BUMP_55" at (-1606.5 -1580.62).
+   "BUMP_56" at (-949.5 -1580.62).
+   "BUMP_57" at (297 -1730.62).
+   "BUMP_58" at (-1345.5 -1580.62).
+   "BUMP_59" at (-1867.5 -1580.62).
+   "BUMP_60" at (1998 -1430.62).
+   "BUMP_61" at (1737 -1430.62).
+   "BUMP_62" at (558 -1730.62).
+   "BUMP_63" at (1867.5 -1430.62).
+   "BUMP_64" at (-130.5 -1419.37).
+   "BUMP_65" at (-297 -1430.62).
+   "BUMP_66" at (819 -1730.62).
+   "BUMP_67" at (-558 -1430.62).
+   "BUMP_68" at (1080 -1730.62).
+   "BUMP_69" at (-688.5 -1430.62).
+   "BUMP_70" at (-427.5 -1430.62).
+   "BUMP_71" at (1476 -1430.62).
+   "BUMP_72" at (1215 -1430.62).
+   "BUMP_73" at (1215 -1730.62).
+   "BUMP_74" at (1080 -1430.62).
+   "BUMP_75" at (819 -1430.62).
+   "BUMP_76" at (558 -1430.62).
+   "BUMP_77" at (297 -1430.62).
+   "BUMP_78" at (1476 -1730.62).
+   "BUMP_79" at (1606.5 -1430.62).
+   "BUMP_80" at (688.5 -1430.62).
+   "BUMP_81" at (1345.5 -1430.62).
+   "BUMP_82" at (1737 -1730.62).
+   "BUMP_83" at (949.5 -1430.62).
+   "BUMP_84" at (1998 -1730.62).
+   "BUMP_85" at (427.5 -1430.62).
+   "BUMP_86" at (130.5 -1419.37).
+   "BUMP_87" at (0 -1419.37).
+   "BUMP_88" at (-819 -1430.62).
+   "BUMP_89" at (-1080 -1430.62).
+   "BUMP_90" at (-1215 -1430.62).
+   "BUMP_91" at (-1476 -1430.62).
+   "BUMP_92" at (-1737 -1430.62).
+   "BUMP_93" at (-1998 -1430.62).
+   "BUMP_94" at (-1606.5 -1430.62).
+   "BUMP_95" at (-949.5 -1430.62).
+   "BUMP_96" at (-1345.5 -1430.62).
+   "BUMP_97" at (-1867.5 -1430.62).
+   "BUMP_98" at (1998 1269.37).
+   "BUMP_99" at (-130.5 1130.62).
+   "BUMP_100" at (-297 1119.37).
+   "BUMP_101" at (-558 1119.37).
+   "BUMP_102" at (-688.5 1119.37).
+   "BUMP_103" at (-427.5 1119.37).
+   "BUMP_104" at (1476 1119.37).
+   "BUMP_105" at (1215 1119.37).
+   "BUMP_106" at (1080 1119.37).
+   "BUMP_107" at (819 1119.37).
+   "BUMP_108" at (558 1119.37).
+   "BUMP_109" at (297 1119.37).
+   "BUMP_110" at (1606.5 1119.37).
+   "BUMP_111" at (688.5 1119.37).
+   "BUMP_112" at (1345.5 1119.37).
+   "BUMP_113" at (949.5 1119.37).
+   "BUMP_114" at (427.5 1119.37).
+   "BUMP_115" at (1998 -1280.62).
+   "BUMP_116" at (130.5 1130.62).
+   "BUMP_117" at (1737 -1280.62).
+   "BUMP_118" at (0 1130.62).
+   "BUMP_119" at (0 1730.62).
+   "BUMP_120" at (130.5 1730.62).
+   "BUMP_121" at (1867.5 -1280.62).
+   "BUMP_122" at (-130.5 -1269.37).
+   "BUMP_123" at (-297 -1280.62).
+   "BUMP_124" at (-558 -1280.62).
+   "BUMP_125" at (427.5 1719.38).
+   "BUMP_126" at (949.5 1719.38).
+   "BUMP_127" at (-688.5 -1280.62).
+   "BUMP_128" at (-427.5 -1280.62).
+   "BUMP_129" at (1476 -1280.62).
+   "BUMP_130" at (1215 -1280.62).
+   "BUMP_131" at (-1867.5 -1730.62).
+   "BUMP_132" at (1080 -1280.62).
+   "BUMP_133" at (819 -1280.62).
+   "BUMP_134" at (558 -1280.62).
+   "BUMP_135" at (297 -1280.62).
+   "BUMP_136" at (1606.5 -1280.62).
+   "BUMP_137" at (-1345.5 -1730.62).
+   "BUMP_138" at (688.5 -1280.62).
+   "BUMP_139" at (-949.5 -1730.62).
+   "BUMP_140" at (1345.5 -1280.62).
+   "BUMP_141" at (949.5 -1280.62).
+   "BUMP_142" at (427.5 -1280.62).
+   "BUMP_143" at (130.5 -1269.37).
+   "BUMP_144" at (0 -1269.37).
+   "BUMP_145" at (-427.5 -1730.62).
+   "BUMP_146" at (-819 -1280.62).
+   "BUMP_147" at (-1080 -1280.62).
+   "BUMP_148" at (-1215 -1280.62).
+   "BUMP_149" at (-1606.5 -1730.62).
+   "BUMP_150" at (-1476 -1280.62).
+   "BUMP_151" at (-1737 -1280.62).
+   "BUMP_152" at (-1998 -1280.62).
+   "BUMP_153" at (-1606.5 -1280.62).
+   "BUMP_154" at (-949.5 -1280.62).
+   "BUMP_155" at (-688.5 -1730.62).
+   "BUMP_156" at (-1345.5 -1280.62).
+   "BUMP_157" at (-1867.5 -1280.62).
+   "BUMP_158" at (1998 -1130.62).
+   "BUMP_159" at (-1998 -1730.62).
+   "BUMP_160" at (1737 -1130.62).
+   "BUMP_161" at (1867.5 -1130.62).
+   "BUMP_162" at (-130.5 -1119.37).
+   "BUMP_163" at (-297 -1130.62).
+   "BUMP_164" at (-1737 -1730.62).
+   "BUMP_165" at (-558 -1130.62).
+   "BUMP_166" at (-688.5 -1130.62).
+   "BUMP_167" at (-427.5 -1130.62).
+   "BUMP_168" at (-1476 -1730.62).
+   "BUMP_169" at (1476 -1130.62).
+   "BUMP_170" at (-1215 -1730.62).
+   "BUMP_171" at (1215 -1130.62).
+   "BUMP_172" at (1080 -1130.62).
+   "BUMP_173" at (819 -1130.62).
+   "BUMP_174" at (558 -1130.62).
+   "BUMP_175" at (-1080 -1730.62).
+   "BUMP_176" at (297 -1130.62).
+   "BUMP_177" at (1606.5 -1130.62).
+   "BUMP_178" at (688.5 -1130.62).
+   "BUMP_179" at (1345.5 -1130.62).
+   "BUMP_180" at (-819 -1730.62).
+   "BUMP_181" at (949.5 -1130.62).
+   "BUMP_182" at (427.5 -1130.62).
+   "BUMP_183" at (130.5 -1119.37).
+   "BUMP_184" at (-558 -1730.62).
+   "BUMP_185" at (0 -1119.37).
+   "BUMP_186" at (-297 -1730.62).
+   "BUMP_187" at (-819 -1130.62).
+   "BUMP_188" at (-1080 -1130.62).
+   "BUMP_189" at (-1215 -1130.62).
+   "BUMP_190" at (-1476 -1130.62).
+   "BUMP_191" at (-1737 -1130.62).
+   "BUMP_192" at (-1998 -1130.62).
+   "BUMP_193" at (-1606.5 -1130.62).
+   "BUMP_194" at (-949.5 -1130.62).
+   "BUMP_195" at (-1345.5 -1130.62).
+   "BUMP_196" at (-1867.5 -1130.62).
+   "BUMP_197" at (1345.5 1719.38).
+   "BUMP_198" at (688.5 1719.38).
+   "BUMP_199" at (1606.5 1719.38).
+   "BUMP_200" at (297 1719.38).
+   "BUMP_201" at (558 1719.38).
+   "BUMP_202" at (819 1719.38).
+   "BUMP_203" at (1080 1719.38).
+   "BUMP_204" at (1215 1719.38).
+   "BUMP_205" at (1476 1719.38).
+   "BUMP_206" at (-427.5 1719.38).
+   "BUMP_207" at (-688.5 1719.38).
+   "BUMP_208" at (-558 1719.38).
+   "BUMP_209" at (-297 1719.38).
+   "BUMP_210" at (-130.5 1730.62).
+   "BUMP_211" at (0 1580.62).
+   "BUMP_212" at (130.5 1580.62).
+   "BUMP_213" at (427.5 1569.38).
+   "BUMP_214" at (949.5 1569.38).
+   "BUMP_215" at (1345.5 1569.38).
+   "BUMP_216" at (688.5 1569.38).
+   "BUMP_217" at (1606.5 1569.38).
+   "BUMP_218" at (297 1569.38).
+   "BUMP_219" at (558 1569.38).
+   "BUMP_220" at (819 1569.38).
+   "BUMP_221" at (1080 1569.38).
+   "BUMP_222" at (1215 1569.38).
+   "BUMP_223" at (1476 1569.38).
+   "BUMP_224" at (-427.5 1569.38).
+   "BUMP_225" at (-688.5 1569.38).
+   "BUMP_226" at (-558 1569.38).
+   "BUMP_227" at (-297 1569.38).
+   "BUMP_228" at (-130.5 1580.62).
+   "BUMP_229" at (0 1430.62).
+   "BUMP_230" at (130.5 1430.62).
+   "BUMP_231" at (427.5 1419.37).
+   "BUMP_232" at (949.5 1419.37).
+   "BUMP_233" at (-130.5 -1719.38).
+   "BUMP_234" at (1991.7 -709.28).
+   "BUMP_235" at (1899.45 -801.53).
+   "BUMP_236" at (1807.2 -893.78).
+   "BUMP_237" at (1807.2 -709.28).
+   "BUMP_238" at (1345.5 1419.37).
+   "BUMP_239" at (688.5 1419.37).
+   "BUMP_240" at (1606.5 1419.37).
+   "BUMP_241" at (297 1419.37).
+   "BUMP_242" at (558 1419.37).
+   "BUMP_243" at (819 1419.37).
+   "BUMP_244" at (1080 1419.37).
+   "BUMP_245" at (1215 1419.37).
+   "BUMP_246" at (1476 1419.37).
+   "BUMP_247" at (-427.5 1419.37).
+   "BUMP_248" at (-688.5 1419.37).
+   "BUMP_249" at (1714.95 -432.53).
+   "BUMP_250" at (1991.7 -155.78).
+   "BUMP_251" at (1714.95 -248.03).
+   "BUMP_252" at (1899.45 -248.03).
+   "BUMP_253" at (1807.2 -524.78).
+   "BUMP_254" at (1899.45 -432.53).
+   "BUMP_255" at (-558 1419.37).
+   "BUMP_256" at (-1807.2 -617.03).
+   "BUMP_257" at (-1991.7 -801.53).
+   "BUMP_258" at (-1899.45 -340.28).
+   "BUMP_259" at (-1807.2 -432.53).
+   "BUMP_260" at (-1714.95 -340.28).
+   "BUMP_261" at (-1899.45 -524.78).
+   "BUMP_262" at (-1899.45 -709.28).
+   "BUMP_263" at (-1807.2 -801.53).
+   "BUMP_264" at (-297 1419.37).
+   "BUMP_265" at (-1991.7 858.96).
+   "BUMP_266" at (-130.5 1430.62).
+   "BUMP_267" at (-1899.45 766.71).
+   "BUMP_268" at (0 1280.62).
+   "BUMP_269" at (130.5 1280.62).
+   "BUMP_270" at (-1714.95 766.71).
+   "BUMP_271" at (-1991.7 674.46).
+   "BUMP_272" at (-1807.2 120.96).
+   "BUMP_273" at (-1714.95 28.71).
+   "BUMP_274" at (-1991.7 -63.54).
+   "BUMP_275" at (-1899.45 -155.78).
+   "BUMP_276" at (-1714.95 -155.78).
+   "BUMP_277" at (-1991.7 -248.03).
+   "BUMP_278" at (-1807.2 674.46).
+   "BUMP_279" at (-1991.7 489.96).
+   "BUMP_280" at (-1807.2 489.96).
+   "BUMP_281" at (-1714.95 397.71).
+   "BUMP_282" at (-1991.7 305.46).
+   "BUMP_283" at (-1807.2 305.46).
+   "BUMP_284" at (-1899.45 213.22).
+   "BUMP_285" at (-1991.7 120.96).
+   "BUMP_286" at (427.5 1269.37).
+   "BUMP_287" at (949.5 1269.37).
+   "BUMP_288" at (1991.7 397.71).
+   "BUMP_289" at (1714.95 305.46).
+   "BUMP_290" at (1807.2 213.22).
+   "BUMP_291" at (1714.95 120.96).
+   "BUMP_292" at (1807.2 28.71).
+   "BUMP_293" at (1991.7 28.71).
+   "BUMP_294" at (1345.5 1269.37).
+   "BUMP_295" at (1807.2 951.21).
+   "BUMP_296" at (1714.95 858.96).
+   "BUMP_297" at (1807.2 766.71).
+   "BUMP_298" at (1714.95 674.46).
+   "BUMP_299" at (1899.45 674.46).
+   "BUMP_300" at (1991.7 582.21).
+   "BUMP_301" at (1899.45 489.96).
+   "BUMP_302" at (688.5 1269.37).
+   "BUMP_303" at (1606.5 1269.37).
+   "BUMP_304" at (297 1269.37).
+   "BUMP_312" at (558 1269.37).
+   "BUMP_313" at (819 1269.37).
+   "BUMP_314" at (1080 1269.37).
+   "BUMP_315" at (1215 1269.37).
+   "BUMP_316" at (1476 1269.37).
+   "BUMP_317" at (-427.5 1269.37).
+   "BUMP_325" at (-688.5 1269.37).
+   "BUMP_326" at (-558 1269.37).
+   "BUMP_327" at (-297 1269.37).
+   "BUMP_328" at (-130.5 1280.62).
+   "BUMP_329" at (-819 1119.37).
+   "BUMP_330" at (-1080 1119.37).
+   "BUMP_331" at (-1215 1119.37).
+   "BUMP_339" at (-1476 1119.37).
+   "BUMP_340" at (-1737 1119.37).
+   "BUMP_341" at (-1998 1119.37).
+   "BUMP_342" at (-1606.5 1119.37).
+   "BUMP_343" at (-949.5 1119.37).
+   "BUMP_344" at (-1345.5 1119.37).
+   "BUMP_345" at (-1867.5 1119.37).
+   "BUMP_353" at (-1867.5 1719.38).
+   "BUMP_354" at (-1345.5 1719.38).
+   "BUMP_355" at (-949.5 1719.38).
+   "BUMP_356" at (-1606.5 1719.38).
+   "BUMP_357" at (-1998 1719.38).
+   "BUMP_358" at (-1737 1719.38).
+   "BUMP_366" at (-1476 1719.38).
+   "BUMP_367" at (-1215 1719.38).
+   "BUMP_368" at (-1080 1719.38).
+   "BUMP_369" at (-819 1719.38).
+   "BUMP_375" at (-1867.5 1569.38).
+   "BUMP_376" at (-1345.5 1569.38).
+   "BUMP_377" at (-949.5 1569.38).
+   "BUMP_378" at (-1606.5 1569.38).
+   "BUMP_379" at (-1998 1569.38).
+   "BUMP_380" at (-1737 1569.38).
+   "BUMP_381" at (-1476 1569.38).
+   "BUMP_382" at (-1215 1569.38).
+   "BUMP_386" at (-1080 1569.38).
+   "BUMP_387" at (-819 1569.38).
+   "BUMP_388" at (-1867.5 1419.37).
+   "BUMP_389" at (-1345.5 1419.37).
+   "BUMP_397" at (-949.5 1419.37).
+   "BUMP_398" at (-1606.5 1419.37).
+   "BUMP_399" at (-1998 1419.37).
+   "BUMP_400" at (-1737 1419.37).
+   "BUMP_408" at (-1476 1419.37).
+   "BUMP_409" at (-1215 1419.37).
+   "BUMP_410" at (-1080 1419.37).
+   "BUMP_411" at (-819 1419.37).
+   "BUMP_412" at (-1867.5 1269.37).
+   "BUMP_413" at (-1345.5 1269.37).
+   "BUMP_421" at (-949.5 1269.37).
+   "BUMP_422" at (-1606.5 1269.37).
+   "BUMP_423" at (-1998 1269.37).
+   "BUMP_424" at (-1737 1269.37).
+   "BUMP_425" at (-1476 1269.37).
+   "BUMP_426" at (-1215 1269.37).
+   "BUMP_434" at (-1080 1269.37).
+   "BUMP_435" at (-819 1269.37).
+   "BUMP_454" at (1714.95 -801.53).
+   "BUMP_455" at (1807.2 -155.78).
+   "BUMP_456" at (1807.2 397.71).
+   "BUMP_457" at (1899.45 -63.54).
+   "BUMP_458" at (1899.45 120.96).
+   "BUMP_459" at (1991.7 -524.78).
+   "BUMP_460" at (1991.7 766.71).
+   "BUMP_461" at (-1991.7 -432.53).
+   "BUMP_462" at (-1899.45 582.21).
+   "BUMP_463" at (-1807.2 -63.54).
+   "BUMP_464" at (-1807.2 858.96).
+   "BUMP_465" at (-1714.95 -709.28).
+   "BUMP_466" at (-1714.95 582.21).
+   "BUMP_467" at (-1991.7 -617.03).
+   "BUMP_468" at (-1899.45 28.71).
+   "BUMP_469" at (-1899.45 397.71).
+   "BUMP_470" at (-1714.95 -893.78).
+   "BUMP_471" at (-1389.96 -928.08).
+   "BUMP_472" at (-1389.96 -674.99).
+   "BUMP_473" at (-1389.96 -421.91).
+   "BUMP_474" at (-1389.96 -168.83).
+   "BUMP_475" at (-1389.96 84.24).
+   "BUMP_476" at (-1389.96 337.32).
+   "BUMP_477" at (-1389.96 590.4).
+   "BUMP_478" at (-1389.96 843.48).
+   "BUMP_479" at (-1136.88 -928.08).
+   "BUMP_480" at (-1136.88 -674.99).
+   "BUMP_481" at (-1136.88 -421.91).
+   "BUMP_482" at (-1136.88 -168.83).
+   "BUMP_483" at (-1136.88 84.24).
+   "BUMP_484" at (-1136.88 337.32).
+   "BUMP_485" at (-1136.88 590.4).
+   "BUMP_486" at (-1136.88 843.48).
+   "BUMP_487" at (-883.8 -928.08).
+   "BUMP_488" at (-883.8 -674.99).
+   "BUMP_489" at (-883.8 -421.91).
+   "BUMP_490" at (-883.8 -168.83).
+   "BUMP_491" at (-883.8 84.24).
+   "BUMP_492" at (-883.8 337.32).
+   "BUMP_493" at (-883.8 590.4).
+   "BUMP_494" at (-883.8 843.48).
+   "BUMP_495" at (-630.72 -928.08).
+   "BUMP_496" at (-630.72 -674.99).
+   "BUMP_497" at (-630.72 -421.91).
+   "BUMP_498" at (-630.72 -168.83).
+   "BUMP_499" at (-630.72 84.24).
+   "BUMP_500" at (-630.72 337.32).
+   "BUMP_501" at (-630.72 590.4).
+   "BUMP_502" at (-630.72 843.48).
+   "BUMP_503" at (-377.64 -928.08).
+   "BUMP_504" at (-377.64 -674.99).
+   "BUMP_505" at (-377.64 -421.91).
+   "BUMP_506" at (-377.64 -168.83).
+   "BUMP_507" at (-377.64 84.24).
+   "BUMP_508" at (-377.64 337.32).
+   "BUMP_509" at (-377.64 590.4).
+   "BUMP_510" at (-377.64 843.48).
+   "BUMP_511" at (-124.56 -421.91).
+   "BUMP_512" at (-124.56 -168.83).
+   "BUMP_513" at (-124.56 84.24).
+   "BUMP_514" at (-124.56 843.48).
+   "BUMP_515" at (128.52 -421.91).
+   "BUMP_516" at (128.52 -168.83).
+   "BUMP_517" at (128.52 84.24).
+   "BUMP_518" at (128.52 843.48).
+   "BUMP_519" at (381.6 -928.08).
+   "BUMP_520" at (381.6 -674.99).
+   "BUMP_521" at (381.6 -421.91).
+   "BUMP_522" at (381.6 -168.83).
+   "BUMP_523" at (381.6 84.24).
+   "BUMP_524" at (381.6 337.32).
+   "BUMP_525" at (381.6 590.4).
+   "BUMP_526" at (381.6 843.48).
+   "BUMP_527" at (634.68 -928.08).
+   "BUMP_528" at (634.68 -674.99).
+   "BUMP_529" at (634.68 -421.91).
+   "BUMP_530" at (634.68 -168.83).
+   "BUMP_531" at (634.68 84.24).
+   "BUMP_532" at (634.68 337.32).
+   "BUMP_533" at (634.68 590.4).
+   "BUMP_534" at (634.68 843.48).
+   "BUMP_535" at (887.76 -928.08).
+   "BUMP_536" at (887.76 -674.99).
+   "BUMP_537" at (887.76 -421.91).
+   "BUMP_538" at (887.76 -168.83).
+   "BUMP_539" at (887.76 84.24).
+   "BUMP_540" at (887.76 337.32).
+   "BUMP_541" at (887.76 590.4).
+   "BUMP_542" at (887.76 843.48).
+   "BUMP_543" at (1140.84 -928.08).
+   "BUMP_544" at (1140.84 -674.99).
+   "BUMP_545" at (1140.84 -421.91).
+   "BUMP_546" at (1140.84 -168.83).
+   "BUMP_547" at (1140.84 84.24).
+   "BUMP_548" at (1140.84 337.32).
+   "BUMP_549" at (1140.84 590.4).
+   "BUMP_550" at (1140.84 843.48).
+   "BUMP_551" at (1393.92 -928.08).
+   "BUMP_552" at (1393.92 -674.99).
+   "BUMP_553" at (1393.92 -421.91).
+   "BUMP_554" at (1393.92 -168.83).
+   "BUMP_555" at (1393.92 84.24).
+   "BUMP_556" at (1393.92 337.32).
+   "BUMP_557" at (1393.92 590.4).
+   "BUMP_558" at (1393.92 843.48).
+   "BUMP_559" at (1714.95 -63.54).
+   "BUMP_560" at (1714.95 489.96).
+   "BUMP_561" at (1899.45 858.96).
+   "BUMP_562" at (1991.7 -893.78).
+   "BUMP_563" at (1991.7 -340.28).
+   "BUMP_564" at (1991.7 213.22).
+   "BUMP_565" at (1714.95 -617.03).
+   "BUMP_566" at (1807.2 -340.28).
+   "BUMP_567" at (1807.2 582.21).
+   "BUMP_568" at (1899.45 305.46).
+   "BUMP_569" at (1991.7 951.21).
+   "BUMP_570" at (-1899.45 -893.78).
+   "BUMP_571" at (-1807.2 -248.03).
+   "BUMP_572" at (-1714.95 -524.78).
+   "BUMP_573" at (-1714.95 213.22).
+   "BUMP_574" at (135.49 -887.54).
+   "BUMP_575" at (-134.51 -887.54).
+   "BUMP_577" at (-134.51 -617.53).
+   "BUMP_582" at (123.47 346.58).
+   "BUMP_583" at (131.44 597.52).
+Physical symbol creation completed.
+
+Adding required pin and net properties.
+Property attachment phase completed.
+
+INFO(SPMHII-42): The data import successfully completed.
+Die Text-In Wizard completed.
+Thu Aug 13 16:58:51 2026

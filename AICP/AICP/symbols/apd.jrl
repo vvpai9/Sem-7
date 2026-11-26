@@ -1,0 +1,40 @@
+\t (00:00:06) apd 24.1 S001 (4251327) [11/6/2024] Linux SPB 64-bit Edition
+\t (00:00:06)     Journal start - Thu Sep 17 10:45:26 2026
+\t (00:00:06)         Host=CICS16.kletech.ac.in User=pkp27ec126 Pid=57205 CPUs=24
+\t (00:00:06) CmdLine= /sl/SPB241/tools.lnx86/bin/allegro.exe
+\t (00:00:06) 
+\t (00:00:06) Loading axlcore.cxt 
+\t (00:01:48) Starting new design...
+\i (00:01:48) trapsize 142857
+\i (00:01:48) trapsize 158730
+\i (00:01:48) trapsize 178571
+\i (00:01:48) trapsize 158730
+\i (00:01:48) trapsize 158730
+\t (00:01:48) Loading apt.cxt 
+\i (00:01:48) symboledit 
+\t (00:01:48) [10:47:09.375195] Periodic Lic check successful
+[10:47:09.375243] Feature usage summary:
+[10:47:09.375243] Allegro_Adv_Packaging_Plus
+[10:47:09.375243] Allegro_PCB_Productivity_TB
+[10:47:09.375248] Allegro_PCB_Harmony_Option
+[10:47:09.375248] SiP_RF_Layout_Option
+[10:47:09.375248] SIP_WLCSP
+[10:47:09.375248] SiP_Layout_Option
+[10:47:09.375249] advanced_package_designer
+
+\i (00:06:54) open 
+\t (00:06:54) [10:52:14.168298] Periodic Lic check successful
+[10:52:14.692624] Feature usage summary:
+[10:52:14.692625] Allegro_Adv_Packaging_Plus
+[10:52:14.692625] Allegro_PCB_Productivity_TB
+[10:52:14.692625] Allegro_PCB_Harmony_Option
+[10:52:14.692625] SiP_RF_Layout_Option
+[10:52:14.692626] SIP_WLCSP
+[10:52:14.692626] SiP_Layout_Option
+[10:52:14.692626] advanced_package_designer
+
+\i (00:07:02) fillin "/home/pkp27ec126/AICP/D2_die_stack.mcm"
+\i (00:07:02) cd "/home/pkp27ec126/AICP"
+\t (00:07:02) Opening existing design...
+\i (00:07:02) trapsize 81181
+\t (00:07:02)     Journal end - Thu Sep 17 10:52:22 2026

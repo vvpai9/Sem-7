@@ -1,0 +1,34 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NetList-In Wizard                                                )
+(                                                                     )
+(    Drawing          : reassign_BGA_voltage.mcm                      )
+(    Software Version : 24.1S001                                      )
+(    Date/Time        : Thu Sep 17 11:40:53 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Beginning import of data. This may take some time.
+
+Created new net SYS_CLOCK from net name sys_clock.
+Created new net SYS_RST from net name sys_rst.
+Created new net SYS_DOWN from net name sys_down.
+Created new net LAMP_MASTER from net name lamp_master.
+Created new net DGP_MASTER from net name dgp_master.
+Created new net VPD_SET from net name vpd_set.
+INFO(SPMHII-658): Assigned net VPD_SET to pin IO1.B10.
+INFO(SPMHII-658): Assigned net VPD_SET to pin D2.7.
+INFO(SPMHII-658): Assigned net DGP_MASTER to pin IO1.G1.
+INFO(SPMHII-658): Assigned net DGP_MASTER to pin D2.58.
+INFO(SPMHII-658): Assigned net LAMP_MASTER to pin IO1.R2.
+INFO(SPMHII-658): Assigned net LAMP_MASTER to pin D2.49.
+INFO(SPMHII-658): Assigned net SYS_DOWN to pin IO1.AB10.
+INFO(SPMHII-658): Assigned net SYS_DOWN to pin D2.38.
+INFO(SPMHII-658): Assigned net SYS_RST to pin IO1.R21.
+INFO(SPMHII-658): Assigned net SYS_RST to pin D2.29.
+INFO(SPMHII-658): Assigned net SYS_CLOCK to pin IO1.F21.
+INFO(SPMHII-658): Assigned net SYS_CLOCK to pin D2.18.
+INFO(SPMHII-42): The data import successfully completed.
+NetList-In Wizard completed.
+Thu Sep 17 11:42:28 2026

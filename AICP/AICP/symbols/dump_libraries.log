@@ -1,0 +1,45 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 24.1S001                                      )
+(    Date/Time        : Thu Sep 17 10:43:36 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: /home/pkp27ec126/AICP/D2_die_stack.mcm ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  BUMPC4 being dumped.
+
+  BGA_PAD being dumped.
+
+  BGA_PAD1 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  bga_421 being dumped.
+
+  die60 being dumped.
+
+  flipchip240 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                3
+Number of package symbols dumped:          3
+
+Total number of symbols dumped:            3
+*****************************************************
+

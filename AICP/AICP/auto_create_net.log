@@ -1,0 +1,85 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Create Net                                                  )
+(                                                                     )
+(    Drawing          : D2_assign_net.mcm                             )
+(    Software Version : 24.1S001                                      )
+(    Date/Time        : Thu Sep 17 11:23:00 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Command settings
+================
+
+   Net prefix                    : User Defined: D2_
+   Net suffix                    : Pin Number
+   Pin reassign allowed          : NO
+   Propogate assignment          : YES
+
+Assignment results
+==================
+
+Pin 45 is already assigned to net GROUND. Reassignment option is off; no change has been made.
+Pin 44 has been assigned to net D2_44.
+Pin 43 has been assigned to net D2_43.
+Pin 42 is already assigned to net POWER. Reassignment option is off; no change has been made.
+Pin 41 has been assigned to net D2_41.
+Pin 40 is already assigned to net GROUND. Reassignment option is off; no change has been made.
+Pin 39 has been assigned to net D2_39.
+Pin 38 has been assigned to net D2_38.
+Pin 37 is already assigned to net GROUND. Reassignment option is off; no change has been made.
+Pin 36 is already assigned to net POWER. Reassignment option is off; no change has been made.
+Pin 35 has been assigned to net D2_35.
+Pin 34 is already assigned to net POWER. Reassignment option is off; no change has been made.
+Pin 33 has been assigned to net D2_33.
+Pin 32 is already assigned to net GROUND. Reassignment option is off; no change has been made.
+Pin 31 has been assigned to net D2_31.
+Pin 46 has been assigned to net D2_46.
+Pin 30 has been assigned to net D2_30.
+Pin 47 has been assigned to net D2_47.
+Pin 29 is already assigned to net POWER. Reassignment option is off; no change has been made.
+Pin 48 has been assigned to net D2_48.
+Pin 28 has been assigned to net D2_28.
+Pin 49 is already assigned to net POWER. Reassignment option is off; no change has been made.
+Pin 27 has been assigned to net D2_27.
+Pin 50 has been assigned to net D2_50.
+Pin 26 has been assigned to net D2_26.
+Pin 51 has been assigned to net D2_51.
+Pin 25 is already assigned to net POWER. Reassignment option is off; no change has been made.
+Pin 52 is already assigned to net GROUND. Reassignment option is off; no change has been made.
+Pin 24 is already assigned to net GROUND. Reassignment option is off; no change has been made.
+Pin 53 has been assigned to net D2_53.
+Pin 23 has been assigned to net D2_23.
+Pin 54 is already assigned to net GROUND. Reassignment option is off; no change has been made.
+Pin 22 is already assigned to net POWER. Reassignment option is off; no change has been made.
+Pin 55 is already assigned to net POWER. Reassignment option is off; no change has been made.
+Pin 21 has been assigned to net D2_21.
+Pin 56 has been assigned to net D2_56.
+Pin 20 is already assigned to net GROUND. Reassignment option is off; no change has been made.
+Pin 57 has been assigned to net D2_57.
+Pin 19 has been assigned to net D2_19.
+Pin 58 is already assigned to net GROUND. Reassignment option is off; no change has been made.
+Pin 18 has been assigned to net D2_18.
+Pin 59 has been assigned to net D2_59.
+Pin 17 is already assigned to net GROUND. Reassignment option is off; no change has been made.
+Pin 60 is already assigned to net POWER. Reassignment option is off; no change has been made.
+Pin 16 has been assigned to net D2_16.
+Pin 1 has been assigned to net D2_1.
+Pin 2 has been assigned to net D2_2.
+Pin 3 has been assigned to net D2_3.
+Pin 4 has been assigned to net D2_4.
+Pin 5 has been assigned to net D2_5.
+Pin 6 has been assigned to net D2_6.
+Pin 7 has been assigned to net D2_7.
+Pin 8 has been assigned to net D2_8.
+Pin 9 has been assigned to net D2_9.
+Pin 10 has been assigned to net D2_10.
+Pin 11 has been assigned to net D2_11.
+Pin 12 has been assigned to net D2_12.
+Pin 13 has been assigned to net D2_13.
+Pin 14 has been assigned to net D2_14.
+Pin 15 has been assigned to net D2_15.
+
+41 pins were assigned to nets, and 0 pins were reassigned to new nets.
+Thu Sep 17 11:23:36 2026

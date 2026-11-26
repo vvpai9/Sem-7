@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : D2_die_stack.mcm                              )
+(    Software Version : 24.1S001                                      )
+(    Date/Time        : Thu Sep 17 10:43:36 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file '/home/pkp27ec126/AICP/symbols/die60.txt': written successfully.
+Device file '/home/pkp27ec126/AICP/symbols/flipchip240.txt': written successfully.
+Device file '/home/pkp27ec126/AICP/symbols/bga_421.txt': written successfully.
+
+  Created device files: 3
+

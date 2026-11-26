@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Purge Unused Nets                                                )
+(                                                                     )
+(    Drawing          : reassign_BGA_voltage.mcm                      )
+(    Software Version : 24.1S001                                      )
+(    Date/Time        : Thu Sep 17 11:42:28 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+The following unused nets were deleted:
+   - D2_38.
+   - D2_18.
+   - D2_7.
+
+
+Thu Sep 17 11:42:30 2026

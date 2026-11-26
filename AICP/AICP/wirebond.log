@@ -1,0 +1,197 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Wirebond Editor                                                  )
+(                                                                     )
+(    Drawing          : guide_paths.mcm                               )
+(    Software Version : 24.1S001                                      )
+(    Date/Time        : Tue Oct 27 11:46:37 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Beginning wirebond editing session: Tue Oct 27 11:46:37 2026
+Starting to add wirebond(s).
+  Added wirebond from (1440 0) to (2574.97 -24.64).
+    Wire profile: LOWPROFILE, Net: D2_23
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (1440 -180) to (2571.76 -254.22).
+    Wire profile: LOWPROFILE, Net: GROUND
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (1440 -360) to (2563.29 -483.81).
+    Wire profile: LOWPROFILE, Net: POWER
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (1440 -540) to (2549.51 -713.44).
+    Wire profile: LOWPROFILE, Net: D2_26
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (1440 -720) to (2530.42 -943.17).
+    Wire profile: LOWPROFILE, Net: D2_27
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (1440 -900) to (2505.95 -1173.07).
+    Wire profile: LOWPROFILE, Net: D2_28
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (1440 -1080) to (2476.05 -1403.28).
+    Wire profile: LOWPROFILE, Net: SYS_RST
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (1440 -1260) to (2440.6 -1633.99).
+    Wire profile: LOWPROFILE, Net: D2_30
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (1440 180) to (2572.9 204.95).
+    Wire profile: LOWPROFILE, Net: POWER
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (1440 360) to (2565.55 434.46).
+    Wire profile: LOWPROFILE, Net: D2_21
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (1440 540) to (2552.94 663.83).
+    Wire profile: LOWPROFILE, Net: GROUND
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (1440 720) to (2535.04 893.09).
+    Wire profile: LOWPROFILE, Net: D2_19
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (1440 900) to (2511.82 1122.3).
+    Wire profile: LOWPROFILE, Net: SYS_CLOCK
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (1440 1080) to (2483.24 1351.54).
+    Wire profile: LOWPROFILE, Net: GROUND
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (1440 1260) to (2449.23 1580.97).
+    Wire profile: LOWPROFILE, Net: D2_16
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (0 -1440) to (47.86 -2574.89).
+    Wire profile: LOWPROFILE, Net: SYS_DOWN
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-180 -1440) to (-181.73 -2573.33).
+    Wire profile: LOWPROFILE, Net: D2_39
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-360 -1440) to (-411.25 -2566.53).
+    Wire profile: LOWPROFILE, Net: GROUND
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-540 -1440) to (-640.62 -2554.44).
+    Wire profile: LOWPROFILE, Net: D2_41
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-720 -1440) to (-869.79 -2537.09).
+    Wire profile: LOWPROFILE, Net: POWER
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-900 -1440) to (-1098.79 -2514.43).
+    Wire profile: LOWPROFILE, Net: D2_43
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1080 -1440) to (-1327.72 -2486.45).
+    Wire profile: LOWPROFILE, Net: D2_44
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1260 -1440) to (-1556.7 -2453.08).
+    Wire profile: LOWPROFILE, Net: GROUND
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (180 -1440) to (277.52 -2571.13).
+    Wire profile: LOWPROFILE, Net: GROUND
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (360 -1440) to (507.27 -2562.11).
+    Wire profile: LOWPROFILE, Net: POWER
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (540 -1440) to (737.16 -2547.78).
+    Wire profile: LOWPROFILE, Net: D2_35
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (720 -1440) to (967.24 -2528.1).
+    Wire profile: LOWPROFILE, Net: POWER
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (900 -1440) to (1197.61 -2503.01).
+    Wire profile: LOWPROFILE, Net: D2_33
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (1080 -1440) to (1428.43 -2472.44).
+    Wire profile: LOWPROFILE, Net: GROUND
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (1260 -1440) to (1659.93 -2436.26).
+    Wire profile: LOWPROFILE, Net: D2_31
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1440 20) to (-2575 4.52).
+    Wire profile: LOWPROFILE, Net: GROUND
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1440 180) to (-2572.2 236.15).
+    Wire profile: LOWPROFILE, Net: POWER
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1440 340) to (-2564.04 467.71).
+    Wire profile: LOWPROFILE, Net: D2_56
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1440 500) to (-2550.5 699.44).
+    Wire profile: LOWPROFILE, Net: D2_57
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1440 660) to (-2531.49 931.7).
+    Wire profile: LOWPROFILE, Net: DGP_MASTER
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1440 820) to (-2506.91 1164.89).
+    Wire profile: LOWPROFILE, Net: D2_59
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1440 980) to (-2476.57 1399.48).
+    Wire profile: LOWPROFILE, Net: POWER
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1440 1160) to (-2440.55 1634.21).
+    Wire profile: LOWPROFILE, Net: GROUND
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1440 -140) to (-2572.41 -227.1).
+    Wire profile: LOWPROFILE, Net: D2_53
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1440 -300) to (-2564.45 -458.85).
+    Wire profile: LOWPROFILE, Net: GROUND
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1440 -460) to (-2551.08 -691.06).
+    Wire profile: LOWPROFILE, Net: D2_51
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1440 -620) to (-2532.2 -924.08).
+    Wire profile: LOWPROFILE, Net: D2_50
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1440 -780) to (-2507.67 -1158.33).
+    Wire profile: LOWPROFILE, Net: LAMP_MASTER
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1440 -940) to (-2477.3 -1394.33).
+    Wire profile: LOWPROFILE, Net: D2_48
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1440 -1100) to (-2440.8 -1632.72).
+    Wire profile: LOWPROFILE, Net: D2_47
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1440 -1260) to (-2397.75 -1874.36).
+    Wire profile: LOWPROFILE, Net: D2_46
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (0 1440) to (56.99 2574.84).
+    Wire profile: LOWPROFILE, Net: D2_8
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (180 1440) to (286.7 2570.89).
+    Wire profile: LOWPROFILE, Net: D2_9
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (360 1440) to (516.53 2561.65).
+    Wire profile: LOWPROFILE, Net: D2_10
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (540 1440) to (746.53 2547.09).
+    Wire profile: LOWPROFILE, Net: D2_11
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (720 1440) to (976.77 2527.18).
+    Wire profile: LOWPROFILE, Net: D2_12
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (900 1440) to (1207.35 2501.84).
+    Wire profile: LOWPROFILE, Net: D2_13
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (1080 1440) to (1438.44 2471).
+    Wire profile: LOWPROFILE, Net: D2_14
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (1260 1440) to (1670.28 2434.52).
+    Wire profile: LOWPROFILE, Net: D2_15
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-180 1440) to (-172.61 2573.51).
+    Wire profile: LOWPROFILE, Net: VPD_SET
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-360 1440) to (-402.13 2566.91).
+    Wire profile: LOWPROFILE, Net: D2_6
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-540 1440) to (-631.51 2555.04).
+    Wire profile: LOWPROFILE, Net: D2_5
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-720 1440) to (-860.66 2537.89).
+    Wire profile: LOWPROFILE, Net: D2_4
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-900 1440) to (-1089.62 2515.45).
+    Wire profile: LOWPROFILE, Net: D2_3
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1080 1440) to (-1318.45 2487.7).
+    Wire profile: LOWPROFILE, Net: D2_2
+    Bond finger: <No Label>, padstack: BF-A
+  Added wirebond from (-1260 1440) to (-1547.28 2454.57).
+    Wire profile: LOWPROFILE, Net: D2_1
+    Bond finger: <No Label>, padstack: BF-A
+End wirebond editing session: Tue Oct 27 11:48:01 2026

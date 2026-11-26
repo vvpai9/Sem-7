@@ -1,0 +1,337 @@
+\t (00:02:21) apd 24.1 S001 (4251327) [11/6/2024] Linux SPB 64-bit Edition
+\t (00:02:21)     Journal start - Tue Jun  2 14:17:13 2026
+\t (00:02:21)         Host=vlsinew41.kletech.ac.in User=pkp27ev012 Pid=15445 CPUs=8
+\t (00:02:21) CmdLine= /sl/SPB241/tools.lnx86/bin/allegro.exe
+\t (00:02:21) 
+\t (00:02:21) Loading axlcore.cxt 
+\t (00:06:46) Opening existing design...
+\d (00:06:46) Design opened: /home/pkp27ev012/AICP_PROJECT/AICP_P.mcm
+\i (00:06:46) trapsize 17874
+\i (00:06:46) trapsize 22840
+\i (00:06:46) trapsize 23783
+\i (00:06:46) trapsize 22840
+\i (00:06:46) trapsize 19185
+\i (00:06:46) trapsize 19185
+\t (00:06:46) Loading apt.cxt 
+\i (00:06:47) trapsize 3863
+\i (00:06:47) wbedit 
+\t (00:06:47) [14:21:39.409720] Periodic Lic check successful
+[14:21:39.409801] Feature usage summary:
+[14:21:39.409802] Allegro_Adv_Packaging_Plus
+[14:21:39.409802] Allegro_PCB_Productivity_TB
+[14:21:39.409802] Allegro_PCB_Harmony_Option
+[14:21:39.409803] SiP_RF_Layout_Option
+[14:21:39.409803] SIP_WLCSP
+[14:21:39.409803] SiP_Layout_Option
+[14:21:39.409803] advanced_package_designer
+
+\i (00:07:42) zoom out 1 
+\i (00:07:42) setwindow pcb
+\i (00:07:42) zoom out -133.59 -3263.78
+\i (00:07:42) trapsize 7726
+\i (00:07:43) roam y -96 
+\i (00:07:43) roam y -96
+\i (00:07:44) roam y -96 
+\i (00:07:44) roam y -96
+\i (00:07:44) roam y -96 
+\i (00:07:44) roam y -96
+\i (00:07:45) roam y 96 
+\i (00:07:45) roam y 96
+\i (00:07:45) roam y -96 
+\i (00:07:45) roam y -96
+\i (00:07:46) roam y -96 
+\i (00:07:46) roam y -96
+\i (00:07:46) roam y 96 
+\i (00:07:46) roam y 96
+\i (00:08:02) unrats all 
+\i (00:08:02) wbedit 
+\i (00:08:46) color192 
+\i (00:08:46) wbedit 
+\i (00:08:47) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:47) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:47) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:47) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:47) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:47) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:47) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:47) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:47) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:47) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:47) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:47) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:48) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:48) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:48) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:59) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:59) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:59) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:59) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:59) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:08:59) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:00) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:00) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:00) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:00) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:01) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:01) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:01) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:01) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:01) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:01) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:01) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:01) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:01) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:01) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:01) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:09) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:16) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:16) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:16) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:16) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:16) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:16) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:16) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:16) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:16) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:16) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:16) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:18) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:18) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:18) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:18) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:18) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:18) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:18) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:18) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:18) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:26) QtSignal CVDColorTable CVDColorButton2:5 clicked
+\i (00:09:28) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Gpio[07]" Net
+\i (00:09:28) QtSignal CVDNetSplitter CVDNetTable dataChanged 0 0
+\i (00:09:28) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:32) QtSignal CVDColorTable CVDColorButton2:6 clicked
+\i (00:09:34) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Gpio[0]" Net
+\i (00:09:34) QtSignal CVDNetSplitter CVDNetTable dataChanged 1 0
+\i (00:09:34) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:35) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Gpio[07]" Net
+\i (00:09:35) QtSignal CVDNetSplitter CVDNetTable dataChanged 0 0
+\i (00:09:35) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:39) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:39) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:40) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:40) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:40) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:42) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:42) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:42) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:42) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:42) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:42) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:09:42) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:07) QtSignal CVDColorTable CVDColorButton5:29 clicked
+\i (00:10:08) QtSignal CVDColorTable CVDColorButton0:29 clicked
+\i (00:10:11) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_I2c_Scl" Net
+\i (00:10:11) QtSignal CVDNetSplitter CVDNetTable dataChanged 32 0
+\i (00:10:11) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:12) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_I2c_Sda" Net
+\i (00:10:12) QtSignal CVDNetSplitter CVDNetTable dataChanged 33 0
+\i (00:10:12) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:22) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:25) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:39) QtSignal CVDColorTable CVDColorButton0:11 clicked
+\i (00:10:45) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxckn" Net
+\i (00:10:45) QtSignal CVDNetSplitter CVDNetTable dataChanged 39 0
+\i (00:10:45) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:45) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxckp" Net
+\i (00:10:45) QtSignal CVDNetSplitter CVDNetTable dataChanged 40 0
+\i (00:10:45) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:46) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxcksb" Net
+\i (00:10:46) QtSignal CVDNetSplitter CVDNetTable dataChanged 41 0
+\i (00:10:46) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:47) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxdata0" Net
+\i (00:10:47) QtSignal CVDNetSplitter CVDNetTable dataChanged 42 0
+\i (00:10:47) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:47) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxdata1" Net
+\i (00:10:47) QtSignal CVDNetSplitter CVDNetTable dataChanged 43 0
+\i (00:10:47) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:48) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxdata2" Net
+\i (00:10:48) QtSignal CVDNetSplitter CVDNetTable dataChanged 44 0
+\i (00:10:48) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:48) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxdata3" Net
+\i (00:10:48) QtSignal CVDNetSplitter CVDNetTable dataChanged 45 0
+\i (00:10:48) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:48) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxdata4" Net
+\i (00:10:48) QtSignal CVDNetSplitter CVDNetTable dataChanged 46 0
+\i (00:10:49) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:49) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:49) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:49) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxdata10" Net
+\i (00:10:49) QtSignal CVDNetSplitter CVDNetTable dataChanged 52 0
+\i (00:10:49) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:50) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxdata9" Net
+\i (00:10:50) QtSignal CVDNetSplitter CVDNetTable dataChanged 51 0
+\i (00:10:50) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:50) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxdata8" Net
+\i (00:10:50) QtSignal CVDNetSplitter CVDNetTable dataChanged 50 0
+\i (00:10:50) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:51) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxdata7" Net
+\i (00:10:51) QtSignal CVDNetSplitter CVDNetTable dataChanged 49 0
+\i (00:10:51) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:51) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxdata5" Net
+\i (00:10:51) QtSignal CVDNetSplitter CVDNetTable dataChanged 47 0
+\i (00:10:51) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:52) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:52) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxdata6" Net
+\i (00:10:52) QtSignal CVDNetSplitter CVDNetTable dataChanged 48 0
+\i (00:10:52) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:54) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:54) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:56) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxdata12" Net
+\i (00:10:56) QtSignal CVDNetSplitter CVDNetTable dataChanged 54 0
+\i (00:10:56) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:57) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:57) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxdata11" Net
+\i (00:10:57) QtSignal CVDNetSplitter CVDNetTable dataChanged 53 0
+\i (00:10:57) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:58) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxdata13" Net
+\i (00:10:58) QtSignal CVDNetSplitter CVDNetTable dataChanged 55 0
+\i (00:10:58) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:58) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxdata14" Net
+\i (00:10:58) QtSignal CVDNetSplitter CVDNetTable dataChanged 56 0
+\i (00:10:58) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:59) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxdata15" Net
+\i (00:10:59) QtSignal CVDNetSplitter CVDNetTable dataChanged 57 0
+\i (00:10:59) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:10:59) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxdatasb" Net
+\i (00:10:59) QtSignal CVDNetSplitter CVDNetTable dataChanged 58 0
+\i (00:10:59) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:00) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:00) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxvld" Net
+\i (00:11:00) QtSignal CVDNetSplitter CVDNetTable dataChanged 60 0
+\i (00:11:01) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:01) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D1_Rxtrk" Net
+\i (00:11:01) QtSignal CVDNetSplitter CVDNetTable dataChanged 59 0
+\i (00:11:01) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:13) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:13) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:17) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:18) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:18) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:18) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:24) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:27) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:27) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:27) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:27) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:27) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:27) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:27) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:27) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:27) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:28) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:28) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:28) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:35) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:45) QtSignal CVDColorTable CVDColorButton0:3 clicked
+\i (00:11:51) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D2_I2c_Scl" Net
+\i (00:11:51) QtSignal CVDNetSplitter CVDNetTable dataChanged 115 0
+\i (00:11:52) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:52) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D2_I2c_Sda" Net
+\i (00:11:52) QtSignal CVDNetSplitter CVDNetTable dataChanged 116 0
+\i (00:11:52) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:11:55) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:00) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:05) QtSignal CVDColorTable CVDColorButton0:11 clicked
+\i (00:12:07) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:07) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D2_Rxdata0" Net
+\i (00:12:07) QtSignal CVDNetSplitter CVDNetTable dataChanged 122 0
+\i (00:12:07) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:08) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D2_Rxdata1" Net
+\i (00:12:08) QtSignal CVDNetSplitter CVDNetTable dataChanged 123 0
+\i (00:12:08) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:08) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D2_Rxdata2" Net
+\i (00:12:08) QtSignal CVDNetSplitter CVDNetTable dataChanged 124 0
+\i (00:12:08) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:08) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D2_Rxdata3" Net
+\i (00:12:08) QtSignal CVDNetSplitter CVDNetTable dataChanged 125 0
+\i (00:12:08) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:08) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D2_Rxdata4" Net
+\i (00:12:08) QtSignal CVDNetSplitter CVDNetTable dataChanged 126 0
+\i (00:12:09) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:09) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D2_Rxdata5" Net
+\i (00:12:09) QtSignal CVDNetSplitter CVDNetTable dataChanged 127 0
+\i (00:12:09) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:09) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D2_Rxdata6" Net
+\i (00:12:09) QtSignal CVDNetSplitter CVDNetTable dataChanged 128 0
+\i (00:12:09) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:09) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D2_Rxdata6" Net
+\i (00:12:09) QtSignal CVDNetSplitter CVDNetTable dataChanged 128 0
+\i (00:12:10) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:10) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:10) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:11) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D2_Rxdata11" Net
+\i (00:12:11) QtSignal CVDNetSplitter CVDNetTable dataChanged 131 0
+\i (00:12:11) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:11) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D2_Rxdatasb" Net
+\i (00:12:11) QtSignal CVDNetSplitter CVDNetTable dataChanged 132 0
+\i (00:12:11) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:12) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D2_Rxdata10" Net
+\i (00:12:12) QtSignal CVDNetSplitter CVDNetTable dataChanged 130 0
+\i (00:12:12) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:12) QtSignal CVDNetTable CVDNetTableDelegate clickedColor "[Net] D2_Rxdata7" Net
+\i (00:12:12) QtSignal CVDNetSplitter CVDNetTable dataChanged 129 0
+\i (00:12:12) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:15) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:15) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:15) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:15) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:16) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:16) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:16) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:12:28) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:12:29) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:12:30) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:12:38) zoom in 1 
+\t (00:12:38) [14:27:30.113928] Periodic Lic check successful
+[14:27:30.638305] Feature usage summary:
+[14:27:30.638306] Allegro_Adv_Packaging_Plus
+[14:27:30.638307] Allegro_PCB_Productivity_TB
+[14:27:30.638307] Allegro_PCB_Harmony_Option
+[14:27:30.638307] SiP_RF_Layout_Option
+[14:27:30.638307] SIP_WLCSP
+[14:27:30.638307] SiP_Layout_Option
+[14:27:30.638307] advanced_package_designer
+
+\i (00:12:38) setwindow pcb
+\i (00:12:38) zoom in 2910.31 -710.60
+\i (00:12:38) trapsize 3863
+\i (00:12:38) zoom out 1 
+\i (00:12:38) setwindow pcb
+\i (00:12:38) zoom out 2910.31 -710.59
+\i (00:12:38) trapsize 7726
+\i (00:12:50) open 
+\e (00:12:50) Do you want to save the changes you made to AICP_P.mcm?
+\i (00:12:52) fillin yes 
+\i (00:13:06) fillin "/jk/APD_Plus_24_1 (01-04-2025)/Creating-20250401T053756Z-001/Creating/solutions/bga_generator.mcm"
+\i (00:13:06) cd "/jk/APD_Plus_24_1 (01-04-2025)/Creating-20250401T053756Z-001/Creating/solutions"
+\t (00:13:06) Opening existing design...
+\i (00:13:06) trapsize 38146
+\t (00:13:06)     Journal end - Tue Jun  2 14:27:58 2026
